@@ -6,6 +6,8 @@
 }
 
 body {
-  background-color: #242424;
+  /* background-color: #242424; */
+  background-image: linear-gradient(#b9aadb, #19006c);
   font-family: "poppins";
+  height: 100vh;
 }

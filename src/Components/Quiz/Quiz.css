@@ -18,7 +18,7 @@
   margin: 8px 0;
 }
 
-.question {
+.container .question {
   font-weight: 500;
   margin-bottom: 4px;
 }
@@ -51,4 +51,19 @@
 .container .index {
   margin: auto;
   font-size: 20px;
+}
+
+.container .correct {
+  background: #dffff2;
+  border-color: #00d397;
+}
+
+.container .incorrect {
+  background: #ffebeb;
+  border-color: #ff4a4a;
+}
+
+.score {
+  text-align: center;
+  margin: 10px 0;
 }
